@@ -1,0 +1,3 @@
+1. Learn how to use GitHub for real projects.
+2. Understand basics of Node.js and development environment.
+3. Improve my coding and debugging skills.
